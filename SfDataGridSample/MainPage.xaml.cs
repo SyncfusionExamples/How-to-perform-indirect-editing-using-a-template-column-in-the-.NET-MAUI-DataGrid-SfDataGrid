@@ -12,9 +12,5 @@ namespace SfDataGridSample
             InitializeComponent();
         }
 
-        private void Button_Clicked()
-        {
-
-        }
     }
 }
